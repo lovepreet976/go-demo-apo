@@ -23,3 +23,4 @@ func main() {
 // webhook trigger test
 // webhook trigger test
 // webhook trigger test
+// webhook auto trigger test
